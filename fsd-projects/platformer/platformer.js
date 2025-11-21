@@ -41,6 +41,8 @@ $(function () {
     
     createPlatform(50, 610, 750, 20, "orange");
 
+    createPlatform(300, 500, 200, 20,"purple",300,500,1);
+
 
     // TODO 3 - Create Collectables
 
@@ -49,6 +51,8 @@ $(function () {
     createCollectable("max", 700 , 300);
 
     createCollectable("grace", 1200 , 540);
+
+    createCollectable("database", 800, 500, 0, 1, 100, 300, 2)
 
 
 

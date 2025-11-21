@@ -504,5 +504,5 @@ Make sure your game unique and challenging! In order to get full credit your pro
 
 2. **Moving Platform Challenge**:
    - Design a platform that moves horizontally between two positions
-   - Example: `createPlatform(400, 300, 200, 20, "blue", 300, 500, 1)`
+   - Example: `cc`
    - Make sure the platform is wide enough for HalleBot to land on while moving
