@@ -50,9 +50,9 @@ $(function () {
 
     createCollectable("max", 700 , 300);
 
-    createCollectable("grace", 1200 , 540);
+    createCollectable("grace", 100 , 630);
 
-    createCollectable("database", 800, 500, 0, 1, 100, 300, 2)
+    createCollectable("database", 1200, 540, 0, 1, 1000, 1200, 2)
 
 
 
